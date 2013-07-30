@@ -8,13 +8,18 @@ to complete it in 3 hours with no real idea of what to do or how to do it I deci
 I would try again with another 3 hour run. This time I am happy. It's a little old fashioned but I'm okay with<br>
 that.
 
-This app lets a specific user login, add love letters (blog posts) to her "Love book". The readers can add comments<br>
-to the letters and so can the author. I thought it was kinda cute. Anyway:
+
+The app lets you add love letters and as many comments as you or others want. Each comment can be from a different commenter
+while on the same page! This app lets a specific user login to delete the comments, and love letters (blog posts) to her "Love book". <br>
+User: Andromeda
+Password: password
+
+Anyway:
 Assignment Details are as follows: <br>
 3 hours to complete <br>
 Project params must have 2 or more of the following: <br>
-Nested Resources  *This made things very simple*
+Nested Resources  *This made things very simple regarding the posts and comments*
 Devise
-Authorization *I added a small authorization action. Bascially only allowing the user edit comments.*
+Authorization *I added a delete only authorization. So only one person (the owner) can delete anything.*
 Associations
-Something you learned about in a Lightning Talk: *I implemented comments to my love letter blog*
+Something you learned about in a Lightning Talk: *I implemented the comment idea to my love letter blog as well as trying to make it presentable. I love text on black background, it's easier for me to read while testing.*
