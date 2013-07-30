@@ -19,7 +19,7 @@ Assignment Details are as follows: <br>
 3 hours to complete <br>
 Project params must have 2 or more of the following: <br>
 Nested Resources  *This made things very simple regarding the posts and comments*<br>
-Devise<br> Did not use on this assignment
+Devise: Did not use on this assignment<br> 
 Authorization *I added a delete only authorization. So only one person (the owner) can delete anything*<br>
-Associations<br> Did not use on this assignment
+Associations:Did not use on this assignment<br>
 Something you learned about in a Lightning Talk: *I implemented the comment idea to my love letter blog as well as trying to make it presentable. I love text on black background, it's easier for me to read while testing.* <br>
