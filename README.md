@@ -11,15 +11,15 @@ that.
 
 The app lets you add love letters and as many comments as you or others want. Each comment can be from a different commenter
 while on the same page! This app lets a specific user login to delete the comments, and love letters (blog posts) to her "Love book". <br>
-User: Andromeda
-Password: password
-
-Anyway:
+User: Andromeda <br>
+Password: password<br>
+<br>
+Anyway:<br>
 Assignment Details are as follows: <br>
 3 hours to complete <br>
 Project params must have 2 or more of the following: <br>
-Nested Resources  *This made things very simple regarding the posts and comments*
-Devise
-Authorization *I added a delete only authorization. So only one person (the owner) can delete anything.*
-Associations
-Something you learned about in a Lightning Talk: *I implemented the comment idea to my love letter blog as well as trying to make it presentable. I love text on black background, it's easier for me to read while testing.*
+Nested Resources  *This made things very simple regarding the posts and comments*<br>
+Devise<br>
+Authorization *I added a delete only authorization. So only one person (the owner) can delete anything*<br>
+Associations<br>
+Something you learned about in a Lightning Talk: *I implemented the comment idea to my love letter blog as well as trying to make it presentable. I love text on black background, it's easier for me to read while testing.* <br>
