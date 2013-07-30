@@ -27,7 +27,7 @@ body {
 }
 
 p {
-  background-color: #000033;
+  background-color: #000000;
   font-family: Helvetica;
   color: #99ffcc;
 }
@@ -42,10 +42,8 @@ table {
   font-family: Helvetica;
   border: 5px #66ffff solid;
   height: 300px;
-  width: 400px;
+  width: 600px;
   margin: auto;
   padding-left: 10px;
   padding-right: 10px;
-
-
 }
