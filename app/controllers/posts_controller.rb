@@ -1,5 +1,5 @@
 class PostsController < ApplicationController
-  http_basic_authenticate_with name: "Andromeda", password: "password", except: [:index, :show]
+  http_basic_authenticate_with name: "Perseus", password: "password", except: [:index, :show]
 
   def index
     @posts = Post.all
