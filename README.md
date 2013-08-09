@@ -24,10 +24,12 @@ Authorization *I added a delete only authorization. So only one person (the owne
 Associations:Did not use on this assignment<br>
 Something you learned about in a Lightning Talk: *I implemented the comment idea to my love letter blog as well as trying to make it presentable. I love text on black background, it's easier for me to read while testing.* <br>
 
-
-Here is my latest update: I added this timestamp upon entering:<br>
+View Updates: These I used two completely different methods. For one I used the simple t = Time.now and the other I implemented
+a method regarding a timeago. Both were interesting to play around with. Below are pictures of the results.<br>
+<br>
+Time.now upon entering the site:<br>
 <a href="http://s20.photobucket.com/user/krystlephoto/media/Clockwelcome_zps1bf00e77.png.html" target="_blank"><img src="http://i20.photobucket.com/albums/b211/krystlephoto/Clockwelcome_zps1bf00e77.png" border="0" alt=" photo Clockwelcome_zps1bf00e77.png"/></a><br>
 <br>
-I also added the timestamp upon creation for the blog posts:<br>
+Created at day and time for the blog posts:<br>
 <a href="http://s20.photobucket.com/user/krystlephoto/media/timestamponpost_zpscf3f5e63.png.html" target="_blank"><img src="http://i20.photobucket.com/albums/b211/krystlephoto/timestamponpost_zpscf3f5e63.png" border="0" alt=" photo timestamponpost_zpscf3f5e63.png"/></a><br>
 <br>
