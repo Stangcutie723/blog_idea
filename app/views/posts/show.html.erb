@@ -8,7 +8,7 @@
   <strong>Text:</strong><br>
   <%= @post.text %>
 </p>
-
+<p>Created: <%= timeago @post.created_at %> </p>
 
 <div id="postshow">
 <h3>Reader's Comments</h3>
