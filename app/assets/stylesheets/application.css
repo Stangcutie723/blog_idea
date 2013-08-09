@@ -21,7 +21,7 @@ body {
   margin: auto;
   padding-left: 10px;
   padding-right: 10px;
-  height: 500px;
+  height: 530px;
 
 
 }
@@ -46,4 +46,19 @@ table {
   margin: auto;
   padding-left: 10px;
   padding-right: 10px;
+}
+
+#postshow {
+  text-align: left;
+}
+
+
+#title {
+  text-align: left;
+
+}
+
+#text {
+  text-align: left;
+
 }
